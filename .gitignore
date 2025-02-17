@@ -1,0 +1,12 @@
+build
+cmake-*
+venv
+
+.idea
+.vs
+.vscode
+.cache
+
+measurements
+processed
+__pycache__
