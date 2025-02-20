@@ -43,3 +43,5 @@ The pre-processed traces will be stored to the `processed` folder.
 ### Step 3: Plotting the traces
 Finally, you can plot the traces by running the `plot.py` script. If everything worked, there should be obvious differences between the plots of the Linux and OpenSSL implementations.
 
+## Note
+The files `src/victims/aesni-linux.S` and `src/victims/aesni-openssl.s` contain code taken from Linux and OpenSSL, and are published under their respective licenses.
